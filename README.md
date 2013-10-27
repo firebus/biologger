@@ -35,6 +35,7 @@ Biologger can track two types of events:
 ## Configuration
 
 * Copy settings_example.php to settings.php and set a location for the activities, one-touch, and log file.
+* Copy the *.bio.example files to *.bio.
 * Enter the list of activities and one-touch activities you want to track in the .bio files, one activity per line 
 
 ## Disclaimers
